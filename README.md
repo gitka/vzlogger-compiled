@@ -1,2 +1,2 @@
 # vzlogger-compiled
-compiled version of vzlogger 0.4.7 for RaspberryPi
+compiled version of vzlogger 0.5.2 (for RaspberryPi)
